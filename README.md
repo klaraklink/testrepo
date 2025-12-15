@@ -6,3 +6,5 @@ This is a line from RStudio. Modified.
 This is a line added remotely.
 
 New line.
+
+New line remote.
